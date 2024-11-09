@@ -1,0 +1,215 @@
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDepartamento.resources
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotaCredito.resources
+C:\Users\Personal\source\repos\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmCaja.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmCaja.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDepartamento.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotaCredito.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmCaja.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDepartamento.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotaCredito.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportesCajero.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotasCredito.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmCaja.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDepartamento.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotaCredito.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportesCajero.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotasCredito.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Personal\Desktop\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmCaja.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDepartamento.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotaCredito.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportesCajero.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotasCredito.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\L\Downloads\MAD PIA Imprimir Todo\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmCaja.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDepartamento.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotaCredito.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportesCajero.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotasCredito.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmCaja.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDepartamento.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotaCredito.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportesCajero.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmNotasCredito.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

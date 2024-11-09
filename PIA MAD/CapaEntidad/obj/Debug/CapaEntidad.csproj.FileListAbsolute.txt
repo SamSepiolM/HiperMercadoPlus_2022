@@ -1,0 +1,29 @@
+C:\Users\Personal\source\repos\PIA MAD\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Personal\source\repos\PIA MAD\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Personal\source\repos\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Personal\source\repos\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Personal\source\repos\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaEntidad\obj\Debug\CapaEntidad.pdb

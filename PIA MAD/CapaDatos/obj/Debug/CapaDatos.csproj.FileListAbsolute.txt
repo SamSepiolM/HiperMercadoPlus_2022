@@ -1,0 +1,45 @@
+C:\Users\Personal\source\repos\PIA MAD\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Personal\source\repos\PIA MAD\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Personal\source\repos\PIA MAD\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Personal\source\repos\PIA MAD\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Personal\source\repos\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Personal\source\repos\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Personal\source\repos\PIA MAD\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Personal\source\repos\PIA MAD\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\LuisJ\Downloads\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\LuisJ\Downloads\MAD\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\L\Documents\MAD PIA10\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Personal\Desktop\MAD PIA26\MAD PIA\PIA MAD\CapaDatos\obj\Debug\CapaDatos.pdb
